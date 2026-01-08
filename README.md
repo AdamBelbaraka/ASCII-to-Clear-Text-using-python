@@ -56,4 +56,4 @@ Clear text : Python
 
 ## License
 
-This project is provided as-is for educational purposes.
+Feel free to use, modify, and share.
